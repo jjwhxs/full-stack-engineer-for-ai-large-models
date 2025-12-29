@@ -65,4 +65,4 @@
 
 <img width="1131" height="159" alt="链接" src="https://github.com/user-attachments/assets/3a98e3f9-2596-447e-b55e-2147fe5e1667" />
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
