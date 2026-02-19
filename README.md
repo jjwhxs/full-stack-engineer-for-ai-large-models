@@ -61,8 +61,6 @@
 ![支付记录](https://github.com/user-attachments/assets/fde669f4-4250-4c2b-ac39-2fc3d376a833)
 
 ### 获取方式
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1131" height="159" alt="链接" src="https://github.com/user-attachments/assets/3a98e3f9-2596-447e-b55e-2147fe5e1667" />
+访问链接：https://mbd.pub/o/bread/mbd-YZWakppsbA==
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
